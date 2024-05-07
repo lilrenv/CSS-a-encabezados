@@ -1,0 +1,33 @@
+
+.titulo{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 10px;
+    background-color: black;
+}
+
+.titulo-white{
+    color: white;
+}
+
+.titulo-cyan{
+    color: cyan;
+}
+
+.titulo-2{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.link{
+    text-align: right;
+    background-color: aquamarine;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
